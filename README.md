@@ -18,13 +18,13 @@ TMDB API (Bearer-token)
 ## Bilder
 
 ### Heimeside
-![Heimeside](screenshots/FilmKatalogReact/home.png)
+![Heimeside](FilmKatalogReact/screenshots/home.png)
 
 ### Søk etter film
-![Søk](screenshots/FilmKatalogReact/søk.png)
+![Søk](FilmKatalogReact/screenshots/søk.png)
 
 ### Favoriser film knapp
-![Favoritt](screenshots/FilmKatalogReact/favoritt-knapp.png)
+![Favoritt](FilmKatalogReact/screenshots/favoritt-knapp.png)
 
 ### Favoritt side
-![Favorittside](screenshots/FilmKatalogReact/favorittside.png)
+![Favorittside](FilmKatalogReact/screenshots/favorittside.png)
